@@ -1,8 +1,8 @@
 
 import numpy as np
 import pandas as pd
-from statsmodels.regression.linear_model import OLS
 import statsmodels as sm
+from statsmodels.regression.linear_model import OLS
 from statsmodels.tools.tools import add_constant
 
 def ATR(DF,n):
