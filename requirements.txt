@@ -1,0 +1,7 @@
+pandas
+pandas-ta
+numpy
+python-bcb
+pyettj
+plotly
+streamlit
